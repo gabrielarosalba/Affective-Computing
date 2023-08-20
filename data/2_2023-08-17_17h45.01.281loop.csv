@@ -1,0 +1,14 @@
+﻿stimFile,feeling,n,slider_2.response_mean,slider_2.response_raw,order
+stims/sad.mp4,sadness,1.0,3.049382716049383,3.049382716049383,1.0
+stims/happy.mp4,happiness,1.0,3.049382716049383,3.049382716049383,2.0
+stims/neutral.mp4,neutrality,1.0,3.049382716049383,3.049382716049383,0.0
+
+extraInfo
+participant,2
+gender,female
+age,76
+date,2023-08-17_17h45.01.281
+expName,untitled
+psychopyVersion,2023.2.0
+frameRate,59.88952777948705
+expStart,2023-08-17 17h45.31.866946 +0200
